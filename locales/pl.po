@@ -32,7 +32,7 @@ msgstr "Niepoprawny format pliku SVG."
 
 #: build/js/Storage.js:165
 msgid "Document was imported from Sozi 13 or earlier."
-msgstr ""
+msgstr "Dokument został zaimportowany z Sozi 13 lub wcześniejszej wersji."
 
 #: build/js/Storage.js:250
 msgid "Saved %s."
@@ -93,11 +93,11 @@ msgstr "Włącz odliczanie"
 
 #: build/js/view/Properties.js:43
 msgid "Reference element Id"
-msgstr ""
+msgstr "Identyfikator elementu odniesienia"
 
 #: build/js/view/Properties.js:45
 msgid "Autoselect element"
-msgstr ""
+msgstr "Automatyczny wybór elementu"
 
 #: build/js/view/Properties.js:45
 msgid "Hide element"
@@ -109,7 +109,7 @@ msgstr "Dopasuj do obiektu"
 
 #: build/js/view/Properties.js:50
 msgid "Layer opacity"
-msgstr ""
+msgstr "Nieprzezroczystość warstwy"
 
 #: build/js/view/Properties.js:50
 msgid "Transition"
@@ -125,11 +125,11 @@ msgstr "Funkcja czasu"
 
 #: build/js/view/Properties.js:59
 msgid "Relative zoom (%)"
-msgstr ""
+msgstr "Powiększenie względne (%)"
 
 #: build/js/view/Properties.js:59
 msgid "Path Id"
-msgstr ""
+msgstr "Identyfikator ścieżki"
 
 #: build/js/view/Properties.js:59
 msgid "Hide path"
@@ -177,7 +177,7 @@ msgstr "Proporcje obrazu "
 
 #: build/js/view/Toolbar.js:72
 msgid "Move the selected layers (hold Alt to zoom, Shift to rotate)"
-msgstr ""
+msgstr "Przenieś zaznaczone warstwy (przytrzymaj: Alt - powiększanie; Shift - obrót)"
 
 #: build/js/view/Toolbar.js:78
 msgid ""
@@ -215,8 +215,8 @@ msgstr "Zapisz prezentacje"
 
 #: build/js/view/Toolbar.js:124
 msgid "Reload the SVG document"
-msgstr ""
+msgstr "Wczytaj ponownie dokument SVG"
 
 #: build/js/view/Toolbar.js:129
 msgid "Information"
-msgstr ""
+msgstr "Informacje"
