@@ -61,7 +61,7 @@ msgstr "Ramka"
 
 #: build/js/view/Properties.js:43
 msgid "Show in frame list"
-msgstr "Pokarz w spisie"
+msgstr "Pokaż w spisie"
 
 #: build/js/view/Properties.js:43
 msgid "Show frame number"
@@ -173,7 +173,7 @@ msgstr "Wstaw zaznaczone za ramką %d"
 
 #: build/js/view/Toolbar.js:45
 msgid "Aspect ratio: "
-msgstr "Proporcje obrazu "
+msgstr "Proporcje obrazu: "
 
 #: build/js/view/Toolbar.js:72
 msgid "Move the selected layers (hold Alt to zoom, Shift to rotate)"
